@@ -60,5 +60,6 @@ This project enables mobile units to collect data such as location, altitude, te
 
 ![pcb img v2](https://github.com/user-attachments/assets/b03a2557-d033-4c7a-805d-287bfa9ae8c4)
 
-##Contributing
+## Contributing
+
 Contributions to the project are welcome! Feel free to open an issue or submit a pull request with your ideas and improvements.
