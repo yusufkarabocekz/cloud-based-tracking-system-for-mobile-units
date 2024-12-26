@@ -63,3 +63,4 @@ This project enables mobile units to collect data such as location, altitude, te
 ## Contributing
 
 Contributions to the project are welcome! Feel free to open an issue or submit a pull request with your ideas and improvements.
+Let me know if there's anything else you'd like to adjust.
