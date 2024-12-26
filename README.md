@@ -1,4 +1,4 @@
-# Smart Tracking System for Mobile Units
+# Cloud Based Tracking System for Mobile Units
 
 This project enables mobile units to collect data such as location, altitude, temperature, and acceleration, save it to an SD card, and upload it to the Firebase cloud platform using Wi-Fi.
 
